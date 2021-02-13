@@ -48,11 +48,11 @@ Your API permissions should be configured like this:
 
 When the app registration is done use this button to deploy SCEPMan to your Azure subscription.
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fglueckkanja%2Fgk-scepman%2Fmaster%2Fazuredeploy.json" target="_blank">
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Friechsteinertech%2Fgk-scepman%2Fmaster%2Fazuredeploy.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
 
-Instead, you can also <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fglueckkanja%2Fgk-scepman%2Fmaster%2Fazuredeploy-beta.json" target="_blank">Deploy the Beta Channel</a>.
+Instead, you can also <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%riechsteinertech%2Fgk-scepman%2Fmaster%2Fazuredeploy-beta.json" target="_blank">Deploy the Beta Channel</a>.
 
 When clicking the deploy button you will see this form dialog
 ![Screenshot](./docs/images/8.png)
