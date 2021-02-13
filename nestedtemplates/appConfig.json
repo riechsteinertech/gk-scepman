@@ -57,7 +57,7 @@
                 "httpsOnly": false,
                 "clientAffinityEnabled": false,
                 "siteConfig": {
-                    "alwaysOn": true,
+                    "alwaysOn": false,
                     "use32BitWorkerProcess": true,
                     "ftpsState": "Disabled",
                     "appSettings": [
