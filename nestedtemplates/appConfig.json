@@ -95,11 +95,11 @@
                         },
                         {
                             "name": "AppConfig:KeyVaultConfig:RootCertificateConfig:CertificateName",
-                            "value": "riechsteiner.tech Device CA 01"
+                            "value": "SCEPman-Device-Root-CA-V1"
                         },
                         {
                             "name": "AppConfig:KeyVaultConfig:RootCertificateConfig:Subject",
-                            "value": "[concat('CN=riechsteiner.tech Device CA 01, ', 'OU=',subscription().tenantId, ', ', 'O=', parameters('OrgName'))]"
+                            "value": "[concat('CN=SCEPman-Device-Root-CA-V1, ', 'OU=',subscription().tenantId, ', ', 'O=', parameters('OrgName'))]"
                         }
                     ]
                 }
