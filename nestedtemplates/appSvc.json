@@ -23,8 +23,8 @@
             "name": "[parameters('AppServicePlanName')]",
             "location": "[resourceGroup().location]",
             "sku": {
-                "Tier": "Standard",
-                "Name": "S1"
+                "Tier": "Free",
+                "Name": "F1"
             },
             "properties": {
                 "name": "[parameters('AppServicePlanName')]",
